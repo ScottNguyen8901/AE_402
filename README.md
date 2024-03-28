@@ -1,6 +1,6 @@
 # AE 402: Orbital Mechanics Repository
 
-Welcome to the Orbital Mechanics repository! This repository contains resources and code for projects on orbital mechanics. 
+Welcome to the Orbital Mechanics repository! This repository contains resources and code for projects for AE 402: Orbital Mechanics at the University of Illinois Urbana-Champaign. 
 
 ## Topics Covered
 
