@@ -1,6 +1,6 @@
 # AE 402: Orbital Mechanics Repository
 
-Welcome to the Orbital Mechanics repository! This repository contains resources and code for the analysis of orbits in an inverse-square gravitational field and various related topics in space dynamics. Whether you're a student, researcher, or enthusiast interested in understanding the dynamics of objects in space, this repository aims to provide valuable insights and tools.
+Welcome to the Orbital Mechanics repository! This repository contains resources and code for projects on orbital mechanics. 
 
 ## Topics Covered
 
